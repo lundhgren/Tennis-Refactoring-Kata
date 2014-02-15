@@ -53,7 +53,7 @@
     <Compile Include="TennisTest.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\application\Tennis-Refactoring-Kata.csproj">
+    <ProjectReference Include="..\Tennis-Refactoring-Kata\Tennis-Refactoring-Kata.csproj">
       <Project>{4b6cc64b-74b5-4bb5-828d-00a423dab2cf}</Project>
       <Name>Tennis-Refactoring-Kata</Name>
     </ProjectReference>
